@@ -1,0 +1,19 @@
+{
+    "name": "omarq/proyecto_pagos2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Omarq\\ProyectoPagos2\\": "src/",
+            "Interfaz\\": "./src/Interfaz/",
+            "Pagos\\": "./src/Pagos/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Qneiby",
+            "email": "omarqneiby@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

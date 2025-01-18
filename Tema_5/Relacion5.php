@@ -148,15 +148,7 @@
 
     ?>
 
-    <!DOCTYPE html>
-    <html lang="es">
-
-    <head>
-        <meta charset="UTF-8">
-        <title>Añadir Alumno</title>
-    </head>
-
-    <body>
+    <section>
         <form method="POST" action="">
             <label for="nombre">Nombre del alumno: </label>
             <input type="text" name="nombre" id="nombre" required>
@@ -212,9 +204,16 @@
         echo "</tr>";
         echo "</table>";
         ?>
-    </body>
+    </section>
 
-    </html>
+    <hr><br>
+
+    <!-- Ejercicio 6 -->
+    <!-- En la carpeta Relacion5_validacion -->
+
+
+
+
 </body>
 
 </html>
