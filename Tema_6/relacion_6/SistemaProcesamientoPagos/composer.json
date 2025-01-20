@@ -1,0 +1,17 @@
+{
+    "name": "omarq/sistema-procesamiento-pagos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Omarq\\SistemaProcesamientoPagos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Qneiby",
+            "email": "omarqneiby@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
